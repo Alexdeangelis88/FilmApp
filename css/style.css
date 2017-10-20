@@ -1,0 +1,27 @@
+
+.box{
+	float: left;
+	margin: 10px;
+	border-style: solid;
+    border-color: black;
+}
+
+.cetner-text{
+	text-align: center;
+}
+
+.titolo{
+	font-family: "Times New Roman", Georgia, Serif;	
+	text-align: center;	
+}
+
+.titoloFilm{
+	color: red;
+	text-align: center;	
+	border-bottom: solid;
+    border-color: black;
+}
+
+.img{
+	border-bottom: solid;
+    border-color: black;}
